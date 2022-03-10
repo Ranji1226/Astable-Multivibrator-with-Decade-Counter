@@ -101,6 +101,8 @@ endmodule
 - Sumanto Kar, eSim Team, FOSSEE
 
 ## References
-[1]Astable Multivibrator https://www.electronics-tutorials.ws/waveforms/astable.html 
+[1]Astable Multivibrator https://www.electronics-tutorials.ws/waveforms/astable.html
+
 [2] Decade Counter https://www.electronicshub.org/decade-counterbcd-counter/ 
+
 [3]Astable Multivibrator based Decode Counter by N.K.Singh https://www.scribd.com/doc/99893729/Astable-Multivibrator-Based-Decade-Counter
