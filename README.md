@@ -1,5 +1,5 @@
 # Astable-Multivibrator-with-Decade-Counter
-The repository explains the design and implementation of astable multivibrator with a Decade counter mixed signal circuit. The astable multivibrator is analog part and its output is given as a clock to the digital part decade counter.
+The repository explains about the design and implementation of astable multivibrator with a Decade counter mixed signal circuit. The astable multivibrator is analog part and its output is given as a clock to the digital part decade counter.
 
 ## Table of Contents
 - [Abstract](#abstract)
