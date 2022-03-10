@@ -51,18 +51,17 @@ The following is the schematic in eSim:
 
 ## Verilog Code
 ```
-module ranji_decadecounter(
-    input clock,
-    input reset,
-    output reg [3:0] q );
-always@(posedge clock)
+module ranji_c(q,reset,clk);
+input clk,reset;
+output reg [3:0]q;
+wire a;
+assign a=q[1]&&q[3];
+always@(posedge reset or negedge clk or posedge a)
 begin
-if(reset)
-q <=4'b0000;
-else if(q<=4'b1000)
-q <= q+1'b1;
+if(reset || a)
+q<=4'b0;
 else
-q <= 4'b0000;
+q<=q+1;
 end
 endmodule
 
