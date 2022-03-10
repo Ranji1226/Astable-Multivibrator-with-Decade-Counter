@@ -22,10 +22,10 @@ The repository explains the design and implementation of astable multivibrator w
 The aim of this project is to design and implementation of astable multivibrator with a Decade counter. A counter is a sequential circuit which is used to count the pulses. The output of the astable multivibrator generates a square wave or clock input for the decade counter. For each negative edge triggering of the clock input, the counter shifts the high state of the output in a sequence from output 0 to output 9 and resets at the 10th clock pulse. This is also known as BCD counter.
 
 ## Reference Circuit Diagram
-![image](https://github.com/Ganapathi28/4-bit-Johnson-Counter-with-ring-oscillator/blob/main/Reference%20Diagram/CMOS%20Ring%20oscillator.png)
-![image](https://github.com/Ganapathi28/4-bit-Johnson-Counter-with-ring-oscillator/blob/main/Reference%20Diagram/Johnson%20counter.png)
+![image](https://github.com/Ranji1226/Astable-Multivibrator-with-Decade-Counter/blob/main/Reference%20diagram/IMG20220228204722.jpg)
+![image](https://github.com/Ranji1226/Astable-Multivibrator-with-Decade-Counter/blob/main/Reference%20diagram/IMG20220228204730.jpg)
 ## Reference Waveform
-![image](https://github.com/Ganapathi28/4-bit-Johnson-Counter-with-ring-oscillator/blob/main/Reference%20Diagram/Output%20Graph.jpg)
+![image](https://github.com/Ranji1226/Astable-Multivibrator-with-Decade-Counter/blob/main/Reference%20diagram/IMG20220228204743.jpg)
 
 ## Software Used
 ### eSim
