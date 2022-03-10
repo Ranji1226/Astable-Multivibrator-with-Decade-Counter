@@ -1,0 +1,22 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# ranji_decadecounter-RESCUE-ranji_decade_counter
+#
+DEF ranji_decadecounter-RESCUE-ranji_decade_counter U 0 40 Y Y 1 F N
+F0 "U" 2850 1800 60 H V C CNN
+F1 "ranji_decadecounter-RESCUE-ranji_decade_counter" 2850 2000 60 H V C CNN
+F2 "" 2850 1950 60 H V C CNN
+F3 "" 2850 1950 60 H V C CNN
+DRAW
+S 2350 2100 3350 1400 0 1 0 N
+X en0 1 2150 1900 200 R 50 50 1 1 I
+X clock0 2 2150 1800 200 R 50 50 1 1 I
+X count3 3 3550 1900 200 L 50 50 1 1 O
+X count2 4 3550 1800 200 L 50 50 1 1 O
+X count1 5 3550 1700 200 L 50 50 1 1 O
+X count0 6 3550 1600 200 L 50 50 1 1 O
+ENDDRAW
+ENDDEF
+#
+#End Library
