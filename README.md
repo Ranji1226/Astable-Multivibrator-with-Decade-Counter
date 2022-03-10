@@ -47,7 +47,7 @@ https://www.veripool.org/verilator/
 
 ## Circuit Diagram in eSim
 The following is the schematic in eSim:
-![image]()
+![image](https://github.com/Ranji1226/Astable-Multivibrator-with-Decade-Counter/blob/main/Simulations/Screenshot%202022-03-09%20234017.png)
 
 ## Verilog Code
 ```
