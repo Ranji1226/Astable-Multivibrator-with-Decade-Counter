@@ -1,0 +1,44 @@
+* c:\users\hp\downloads\ranji_c-20220308t181533z-001\ranji_c\ranji_c.cir
+
+.include NPN.lib
+* u1  net-_u1-pad1_ net-_u1-pad2_ net-_u1-pad3_ net-_u1-pad4_ net-_u1-pad5_ net-_u1-pad6_ ranji_c
+* u2  in rst net-_u1-pad1_ net-_u1-pad2_ adc_bridge_2
+* u3  net-_u1-pad3_ net-_u1-pad4_ net-_u1-pad5_ net-_u1-pad6_ o4 o3 o2 o1 dac_bridge_4
+v2  rst gnd pulse(5 0 2 0 0 30 30)
+* u4  o4 plot_v1
+* u6  o3 plot_v1
+* u5  o1 plot_v1
+* u7  o2 plot_v1
+q2 in net-_c1-pad1_ gnd Q2N2222
+q1 net-_c1-pad2_ net-_c2-pad2_ gnd Q2N2222
+r1  net-_r1-pad1_ net-_c1-pad2_ 510
+r2  net-_r1-pad1_ net-_c1-pad1_ 10k
+r3  net-_r1-pad1_ net-_c2-pad2_ 10k
+r4  net-_r1-pad1_ in 510
+c1  net-_c1-pad1_ net-_c1-pad2_ 100u
+c2  in net-_c2-pad2_ 100u
+v1  net-_r1-pad1_ gnd 6
+a1 [net-_u1-pad1_ ] [net-_u1-pad2_ ] [net-_u1-pad3_ net-_u1-pad4_ net-_u1-pad5_ net-_u1-pad6_ ] u1
+a2 [in rst ] [net-_u1-pad1_ net-_u1-pad2_ ] u2
+a3 [net-_u1-pad3_ net-_u1-pad4_ net-_u1-pad5_ net-_u1-pad6_ ] [o4 o3 o2 o1 ] u3
+* Schematic Name:                             ranji_c, NgSpice Name: ranji_c
+.model u1 ranji_c(rise_delay=1.0e-9 fall_delay=1.0e-9 input_load=1.0e-12 instance_id=1 ) 
+* Schematic Name:                             adc_bridge_2, NgSpice Name: adc_bridge
+.model u2 adc_bridge(in_low=1.0 in_high=2.0 rise_delay=1.0e-9 fall_delay=1.0e-9 ) 
+* Schematic Name:                             dac_bridge_4, NgSpice Name: dac_bridge
+.model u3 dac_bridge(out_low=0.0 out_high=5.0 out_undef=0.5 input_load=1.0e-12 t_rise=1.0e-9 t_fall=1.0e-9 ) 
+.tran 0.01e-00 30e-00 0e-00
+
+* Control Statements 
+.control
+run
+print allv > plot_data_v.txt
+print alli > plot_data_i.txt
+set xbrushwidth = 4
+plot v(o4) v(o3)+8 v(o2)+14 v(o1)+20 v(rst)+26 v(in)+32
+
+
+
+
+.endc
+.end

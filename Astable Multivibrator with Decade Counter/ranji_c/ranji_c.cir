@@ -1,0 +1,27 @@
+* C:\Users\HP\Downloads\ranji_c-20220308T181533Z-001\ranji_c\ranji_c.cir
+
+* EESchema Netlist Version 1.1 (Spice format) creation date: 03/08/22 23:50:55
+
+* To exclude a component from the Spice Netlist add [Spice_Netlist_Enabled] user FIELD set to: N
+* To reorder the component spice node sequence add [Spice_Node_Sequence] user FIELD and define sequence: 2,1,0
+
+* Sheet Name: /
+U1  Net-_U1-Pad1_ Net-_U1-Pad2_ Net-_U1-Pad3_ Net-_U1-Pad4_ Net-_U1-Pad5_ Net-_U1-Pad6_ ranji_c		
+U2  in rst Net-_U1-Pad1_ Net-_U1-Pad2_ adc_bridge_2		
+U3  Net-_U1-Pad3_ Net-_U1-Pad4_ Net-_U1-Pad5_ Net-_U1-Pad6_ o4 o3 o2 o1 dac_bridge_4		
+v2  rst GND pulse		
+U4  o4 plot_v1		
+U6  o3 plot_v1		
+U5  o1 plot_v1		
+U7  o2 plot_v1		
+Q2  in Net-_C1-Pad1_ GND eSim_NPN		
+Q1  Net-_C1-Pad2_ Net-_C2-Pad2_ GND eSim_NPN		
+R1  Net-_R1-Pad1_ Net-_C1-Pad2_ 510		
+R2  Net-_R1-Pad1_ Net-_C1-Pad1_ 10k		
+R3  Net-_R1-Pad1_ Net-_C2-Pad2_ 10k		
+R4  Net-_R1-Pad1_ in 510		
+C1  Net-_C1-Pad1_ Net-_C1-Pad2_ 100u		
+C2  in Net-_C2-Pad2_ 100u		
+v1  Net-_R1-Pad1_ GND 6		
+
+.end

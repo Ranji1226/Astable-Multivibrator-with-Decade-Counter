@@ -1,0 +1,1817 @@
+
+No compatibility mode selected!
+
+
+Circuit: * /home/nalinnet36/desktop/nalin_esim/ranji_c/ranji_c.cir
+
+Reducing trtol to 1 for xspice 'A' devices
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Warning: v2: no DC value, transient time 0 value used
+=============ranji_c : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=0
+reset=0
+q=0
+
+Inside foo after eval.....
+clk=0
+reset=0
+q=0
+=============ranji_c : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=0
+reset=0
+q=0
+
+Inside foo after eval.....
+clk=0
+reset=0
+q=0
+=============ranji_c : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=0
+reset=0
+q=0
+
+Inside foo after eval.....
+clk=0
+reset=1
+q=0
+
+Initial Transient Solution
+--------------------------
+
+Node                                   Voltage
+----                                   -------
+rst                                          5
+in                                   0.0559474
+net-_c1-pad1_                         0.722306
+net-_c1-pad2_                        0.0559474
+net-_c2-pad2_                         0.722306
+net-_r1-pad1_                                6
+o1                                           0
+o2                                           0
+o3                                           0
+o4                                           0
+v1#branch                           -0.0243655
+v2#branch                                    0
+a3#branch_1_0                                0
+a3#branch_1_1                                0
+a3#branch_1_2                                0
+a3#branch_1_3                                0
+
+=============ranji_c : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=0
+reset=1
+q=0
+
+Inside foo after eval.....
+clk=1
+reset=1
+q=0
+=============ranji_c : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=1
+q=0
+
+Inside foo after eval.....
+clk=1
+reset=1
+q=0
+=============ranji_c : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=1
+q=0
+
+Inside foo after eval.....
+clk=1
+reset=1
+q=0
+=============ranji_c : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=1
+q=0
+
+Inside foo after eval.....
+clk=0
+reset=1
+q=0
+=============ranji_c : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=0
+reset=1
+q=0
+
+Inside foo after eval.....
+clk=0
+reset=1
+q=0
+=============ranji_c : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=0
+reset=1
+q=0
+
+Inside foo after eval.....
+clk=0
+reset=1
+q=0
+=============ranji_c : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=0
+reset=1
+q=0
+
+Inside foo after eval.....
+clk=1
+reset=1
+q=0
+=============ranji_c : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=1
+q=0
+
+Inside foo after eval.....
+clk=1
+reset=1
+q=0
+=============ranji_c : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=1
+q=0
+
+Inside foo after eval.....
+clk=1
+reset=1
+q=0
+=============ranji_c : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=1
+q=0
+
+Inside foo after eval.....
+clk=0
+reset=1
+q=0
+=============ranji_c : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=0
+reset=1
+q=0
+
+Inside foo after eval.....
+clk=0
+reset=1
+q=0
+=============ranji_c : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=0
+reset=1
+q=0
+
+Inside foo after eval.....
+clk=0
+reset=1
+q=0
+=============ranji_c : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=0
+reset=1
+q=0
+
+Inside foo after eval.....
+clk=0
+reset=0
+q=0
+=============ranji_c : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=0
+reset=0
+q=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+q=0
+=============ranji_c : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+q=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+q=0
+=============ranji_c : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+q=0
+
+Inside foo after eval.....
+clk=0
+reset=0
+q=1
+=============ranji_c : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=0
+reset=0
+q=1
+
+Inside foo after eval.....
+clk=0
+reset=0
+q=1
+=============ranji_c : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=0
+reset=0
+q=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+q=1
+=============ranji_c : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+q=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+q=1
+=============ranji_c : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+q=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+q=1
+=============ranji_c : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+q=1
+
+Inside foo after eval.....
+clk=0
+reset=0
+q=2
+=============ranji_c : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=0
+reset=0
+q=2
+
+Inside foo after eval.....
+clk=0
+reset=0
+q=2
+=============ranji_c : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=0
+reset=0
+q=2
+
+Inside foo after eval.....
+clk=1
+reset=0
+q=2
+=============ranji_c : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+q=2
+
+Inside foo after eval.....
+clk=1
+reset=0
+q=2
+=============ranji_c : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+q=2
+
+Inside foo after eval.....
+clk=0
+reset=0
+q=3
+=============ranji_c : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=0
+reset=0
+q=3
+
+Inside foo after eval.....
+clk=0
+reset=0
+q=3
+=============ranji_c : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=0
+reset=0
+q=3
+
+Inside foo after eval.....
+clk=1
+reset=0
+q=3
+=============ranji_c : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+q=3
+
+Inside foo after eval.....
+clk=1
+reset=0
+q=3
+=============ranji_c : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+q=3
+
+Inside foo after eval.....
+clk=1
+reset=0
+q=3
+=============ranji_c : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+q=3
+
+Inside foo after eval.....
+clk=0
+reset=0
+q=4
+=============ranji_c : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=0
+reset=0
+q=4
+
+Inside foo after eval.....
+clk=0
+reset=0
+q=4
+=============ranji_c : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=0
+reset=0
+q=4
+
+Inside foo after eval.....
+clk=1
+reset=0
+q=4
+=============ranji_c : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+q=4
+
+Inside foo after eval.....
+clk=1
+reset=0
+q=4
+=============ranji_c : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+q=4
+
+Inside foo after eval.....
+clk=0
+reset=0
+q=5
+=============ranji_c : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=0
+reset=0
+q=5
+
+Inside foo after eval.....
+clk=0
+reset=0
+q=5
+=============ranji_c : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=0
+reset=0
+q=5
+
+Inside foo after eval.....
+clk=1
+reset=0
+q=5
+=============ranji_c : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+q=5
+
+Inside foo after eval.....
+clk=1
+reset=0
+q=5
+=============ranji_c : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+q=5
+
+Inside foo after eval.....
+clk=0
+reset=0
+q=6
+=============ranji_c : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=0
+reset=0
+q=6
+
+Inside foo after eval.....
+clk=0
+reset=0
+q=6
+=============ranji_c : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=0
+reset=0
+q=6
+
+Inside foo after eval.....
+clk=1
+reset=0
+q=6
+=============ranji_c : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+q=6
+
+Inside foo after eval.....
+clk=1
+reset=0
+q=6
+=============ranji_c : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+q=6
+
+Inside foo after eval.....
+clk=0
+reset=0
+q=7
+=============ranji_c : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=0
+reset=0
+q=7
+
+Inside foo after eval.....
+clk=0
+reset=0
+q=7
+=============ranji_c : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=0
+reset=0
+q=7
+
+Inside foo after eval.....
+clk=1
+reset=0
+q=7
+=============ranji_c : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+q=7
+
+Inside foo after eval.....
+clk=1
+reset=0
+q=7
+=============ranji_c : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+q=7
+
+Inside foo after eval.....
+clk=1
+reset=0
+q=7
+=============ranji_c : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+q=7
+
+Inside foo after eval.....
+clk=0
+reset=0
+q=8
+=============ranji_c : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=0
+reset=0
+q=8
+
+Inside foo after eval.....
+clk=0
+reset=0
+q=8
+=============ranji_c : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=0
+reset=0
+q=8
+
+Inside foo after eval.....
+clk=1
+reset=0
+q=8
+=============ranji_c : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+q=8
+
+Inside foo after eval.....
+clk=1
+reset=0
+q=8
+=============ranji_c : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+q=8
+
+Inside foo after eval.....
+clk=1
+reset=0
+q=8
+=============ranji_c : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+q=8
+
+Inside foo after eval.....
+clk=0
+reset=0
+q=9
+=============ranji_c : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=0
+reset=0
+q=9
+
+Inside foo after eval.....
+clk=0
+reset=0
+q=9
+=============ranji_c : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=0
+reset=0
+q=9
+
+Inside foo after eval.....
+clk=1
+reset=0
+q=9
+=============ranji_c : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+q=9
+
+Inside foo after eval.....
+clk=1
+reset=0
+q=9
+=============ranji_c : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+q=9
+
+Inside foo after eval.....
+clk=1
+reset=0
+q=9
+=============ranji_c : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+q=9
+
+Inside foo after eval.....
+clk=0
+reset=0
+q=0
+=============ranji_c : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=0
+reset=0
+q=0
+
+Inside foo after eval.....
+clk=0
+reset=0
+q=0
+=============ranji_c : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=0
+reset=0
+q=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+q=0
+=============ranji_c : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+q=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+q=0
+=============ranji_c : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+q=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+q=0
+=============ranji_c : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+q=0
+
+Inside foo after eval.....
+clk=0
+reset=0
+q=1
+=============ranji_c : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=0
+reset=0
+q=1
+
+Inside foo after eval.....
+clk=0
+reset=0
+q=1
+=============ranji_c : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=0
+reset=0
+q=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+q=1
+=============ranji_c : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+q=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+q=1
+=============ranji_c : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+q=1
+
+Inside foo after eval.....
+clk=0
+reset=0
+q=2
+=============ranji_c : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=0
+reset=0
+q=2
+
+Inside foo after eval.....
+clk=0
+reset=0
+q=2
+=============ranji_c : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=0
+reset=0
+q=2
+
+Inside foo after eval.....
+clk=1
+reset=0
+q=2
+=============ranji_c : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+clk=1
+reset=0
+q=2
+
+Inside foo after eval.....
+clk=1
+reset=0
+q=2
+
+No. of Data Rows : 4785
+ERROR: (internal)  This operation is not defined for display type PrinterOnly.
+Can't open viewport for graphics.
+ERROR: (internal)  This operation is not defined for display type PrinterOnly.
+Can't open viewport for graphics.
+ERROR: (internal)  This operation is not defined for display type PrinterOnly.
+Can't open viewport for graphics.
+ERROR: (internal)  This operation is not defined for display type PrinterOnly.
+Can't open viewport for graphics.
+binary raw file "/home/nalinnet36/Desktop/nalin_esim/ranji_c/ranji_c.raw"
+Reducing trtol to 1 for xspice 'A' devices
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Warning: v2: no DC value, transient time 0 value used
+No. of Data Columns : 19     
+=============ranji_c : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+reset=0
+q=0
+
+Inside foo after eval.....
+clk=0
+reset=0
+q=0
+=============ranji_c : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+reset=0
+q=0
+
+Inside foo after eval.....
+clk=0
+reset=0
+q=0
+=============ranji_c : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+reset=0
+q=0
+
+Inside foo after eval.....
+clk=0
+reset=1
+q=0
+
+Initial Transient Solution
+--------------------------
+
+Node                                   Voltage
+----                                   -------
+rst                                          5
+in                                   0.0559474
+net-_c1-pad1_                         0.722306
+net-_c1-pad2_                        0.0559474
+net-_c2-pad2_                         0.722306
+net-_r1-pad1_                                6
+o1                                           0
+o2                                           0
+o3                                           0
+o4                                           0
+v1#branch                           -0.0243655
+v2#branch                                    0
+a3#branch_1_0                                0
+a3#branch_1_1                                0
+a3#branch_1_2                                0
+a3#branch_1_3                                0
+
+=============ranji_c : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+reset=1
+q=0
+
+Inside foo after eval.....
+clk=1
+reset=1
+q=0
+=============ranji_c : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=1
+q=0
+
+Inside foo after eval.....
+clk=1
+reset=1
+q=0
+=============ranji_c : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=1
+q=0
+
+Inside foo after eval.....
+clk=1
+reset=1
+q=0
+=============ranji_c : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=1
+q=0
+
+Inside foo after eval.....
+clk=0
+reset=1
+q=0
+=============ranji_c : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+reset=1
+q=0
+
+Inside foo after eval.....
+clk=0
+reset=1
+q=0
+=============ranji_c : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+reset=1
+q=0
+
+Inside foo after eval.....
+clk=0
+reset=1
+q=0
+=============ranji_c : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+reset=1
+q=0
+
+Inside foo after eval.....
+clk=1
+reset=1
+q=0
+=============ranji_c : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=1
+q=0
+
+Inside foo after eval.....
+clk=1
+reset=1
+q=0
+=============ranji_c : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=1
+q=0
+
+Inside foo after eval.....
+clk=1
+reset=1
+q=0
+=============ranji_c : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=1
+q=0
+
+Inside foo after eval.....
+clk=0
+reset=1
+q=0
+=============ranji_c : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+reset=1
+q=0
+
+Inside foo after eval.....
+clk=0
+reset=1
+q=0
+=============ranji_c : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+reset=1
+q=0
+
+Inside foo after eval.....
+clk=0
+reset=1
+q=0
+=============ranji_c : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+reset=1
+q=0
+
+Inside foo after eval.....
+clk=0
+reset=0
+q=0
+=============ranji_c : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+reset=0
+q=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+q=0
+=============ranji_c : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+q=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+q=0
+=============ranji_c : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+q=0
+
+Inside foo after eval.....
+clk=0
+reset=0
+q=1
+=============ranji_c : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+reset=0
+q=1
+
+Inside foo after eval.....
+clk=0
+reset=0
+q=1
+=============ranji_c : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+reset=0
+q=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+q=1
+=============ranji_c : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+q=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+q=1
+=============ranji_c : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+q=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+q=1
+=============ranji_c : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+q=1
+
+Inside foo after eval.....
+clk=0
+reset=0
+q=2
+=============ranji_c : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+reset=0
+q=2
+
+Inside foo after eval.....
+clk=0
+reset=0
+q=2
+=============ranji_c : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+reset=0
+q=2
+
+Inside foo after eval.....
+clk=1
+reset=0
+q=2
+=============ranji_c : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+q=2
+
+Inside foo after eval.....
+clk=1
+reset=0
+q=2
+=============ranji_c : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+q=2
+
+Inside foo after eval.....
+clk=0
+reset=0
+q=3
+=============ranji_c : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+reset=0
+q=3
+
+Inside foo after eval.....
+clk=0
+reset=0
+q=3
+=============ranji_c : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+reset=0
+q=3
+
+Inside foo after eval.....
+clk=1
+reset=0
+q=3
+=============ranji_c : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+q=3
+
+Inside foo after eval.....
+clk=1
+reset=0
+q=3
+=============ranji_c : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+q=3
+
+Inside foo after eval.....
+clk=1
+reset=0
+q=3
+=============ranji_c : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+q=3
+
+Inside foo after eval.....
+clk=0
+reset=0
+q=4
+=============ranji_c : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+reset=0
+q=4
+
+Inside foo after eval.....
+clk=0
+reset=0
+q=4
+=============ranji_c : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+reset=0
+q=4
+
+Inside foo after eval.....
+clk=1
+reset=0
+q=4
+=============ranji_c : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+q=4
+
+Inside foo after eval.....
+clk=1
+reset=0
+q=4
+=============ranji_c : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+q=4
+
+Inside foo after eval.....
+clk=0
+reset=0
+q=5
+=============ranji_c : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+reset=0
+q=5
+
+Inside foo after eval.....
+clk=0
+reset=0
+q=5
+=============ranji_c : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+reset=0
+q=5
+
+Inside foo after eval.....
+clk=1
+reset=0
+q=5
+=============ranji_c : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+q=5
+
+Inside foo after eval.....
+clk=1
+reset=0
+q=5
+=============ranji_c : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+q=5
+
+Inside foo after eval.....
+clk=0
+reset=0
+q=6
+=============ranji_c : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+reset=0
+q=6
+
+Inside foo after eval.....
+clk=0
+reset=0
+q=6
+=============ranji_c : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+reset=0
+q=6
+
+Inside foo after eval.....
+clk=1
+reset=0
+q=6
+=============ranji_c : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+q=6
+
+Inside foo after eval.....
+clk=1
+reset=0
+q=6
+=============ranji_c : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+q=6
+
+Inside foo after eval.....
+clk=0
+reset=0
+q=7
+=============ranji_c : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+reset=0
+q=7
+
+Inside foo after eval.....
+clk=0
+reset=0
+q=7
+=============ranji_c : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+reset=0
+q=7
+
+Inside foo after eval.....
+clk=1
+reset=0
+q=7
+=============ranji_c : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+q=7
+
+Inside foo after eval.....
+clk=1
+reset=0
+q=7
+=============ranji_c : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+q=7
+
+Inside foo after eval.....
+clk=1
+reset=0
+q=7
+=============ranji_c : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+q=7
+
+Inside foo after eval.....
+clk=0
+reset=0
+q=8
+=============ranji_c : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+reset=0
+q=8
+
+Inside foo after eval.....
+clk=0
+reset=0
+q=8
+=============ranji_c : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+reset=0
+q=8
+
+Inside foo after eval.....
+clk=1
+reset=0
+q=8
+=============ranji_c : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+q=8
+
+Inside foo after eval.....
+clk=1
+reset=0
+q=8
+=============ranji_c : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+q=8
+
+Inside foo after eval.....
+clk=1
+reset=0
+q=8
+=============ranji_c : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+q=8
+
+Inside foo after eval.....
+clk=0
+reset=0
+q=9
+=============ranji_c : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+reset=0
+q=9
+
+Inside foo after eval.....
+clk=0
+reset=0
+q=9
+=============ranji_c : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+reset=0
+q=9
+
+Inside foo after eval.....
+clk=1
+reset=0
+q=9
+=============ranji_c : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+q=9
+
+Inside foo after eval.....
+clk=1
+reset=0
+q=9
+=============ranji_c : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+q=9
+
+Inside foo after eval.....
+clk=1
+reset=0
+q=9
+=============ranji_c : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+q=9
+
+Inside foo after eval.....
+clk=0
+reset=0
+q=0
+=============ranji_c : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+reset=0
+q=0
+
+Inside foo after eval.....
+clk=0
+reset=0
+q=0
+=============ranji_c : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+reset=0
+q=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+q=0
+=============ranji_c : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+q=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+q=0
+=============ranji_c : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+q=0
+
+Inside foo after eval.....
+clk=1
+reset=0
+q=0
+=============ranji_c : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+q=0
+
+Inside foo after eval.....
+clk=0
+reset=0
+q=1
+=============ranji_c : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+reset=0
+q=1
+
+Inside foo after eval.....
+clk=0
+reset=0
+q=1
+=============ranji_c : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+reset=0
+q=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+q=1
+=============ranji_c : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+q=1
+
+Inside foo after eval.....
+clk=1
+reset=0
+q=1
+=============ranji_c : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+q=1
+
+Inside foo after eval.....
+clk=0
+reset=0
+q=2
+=============ranji_c : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+reset=0
+q=2
+
+Inside foo after eval.....
+clk=0
+reset=0
+q=2
+=============ranji_c : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=0
+reset=0
+q=2
+
+Inside foo after eval.....
+clk=1
+reset=0
+q=2
+=============ranji_c : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+clk=1
+reset=0
+q=2
+
+Inside foo after eval.....
+clk=1
+reset=0
+q=2
+
+No. of Data Rows : 4785
+
+Total analysis time (seconds) = 0.914235
+
+Total CPU time (seconds) = 1.427 
+
+Total DRAM available = 257855.305 MB.
+DRAM currently available = 246188.293 MB.
+Maximum ngspice program size =   91.184 MB.
+Current ngspice program size =   13.512 MB.
+
+Shared ngspice pages =    9.789 MB.
+Text (code) pages =    6.285 MB.
+Stack = 0 bytes.
+Library pages =    4.648 MB.
+
