@@ -101,7 +101,6 @@ endmodule
 - Sumanto Kar, eSim Team, FOSSEE
 
 ## References
-[1] V. Sikarwar, N. Yadav and S. Akashe, "Design and analysis of CMOS ring oscillator using 45 nm technology," 2013 3rd IEEE International Advance Computing Conference (IACC), Ghaziabad, 2013, pp. 1491- 1495.
-
-[2] Sani M. Ismail, Saadmaan Rahman, Mohammed M. Rahman and Neelanjana S. Ferdous
-“A Design Scheme of Toggle Operation Based Johnson Counter with Efficient Clock Gating”, 2012 Fourth International Conference on Computational Intelligence, Modelling and Simulation
+[1]Astable Multivibrator https://www.electronics-tutorials.ws/waveforms/astable.html 
+[2] Decade Counter https://www.electronicshub.org/decade-counterbcd-counter/ 
+[3]Astable Multivibrator based Decode Counter by N.K.Singh https://www.scribd.com/doc/99893729/Astable-Multivibrator-Based-Decade-Counter
