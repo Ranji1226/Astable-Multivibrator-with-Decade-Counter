@@ -68,7 +68,7 @@ endmodule
 
 ```
 ## Observations
-![image](https://github.com/Ganapathi28/4-bit-Johnson-Counter-with-ring-oscillator/blob/main/Simulation%20Results/Final%20Output.jpg)
+![image](https://github.com/Ranji1226/Astable-Multivibrator-with-Decade-Counter/blob/main/Simulations/Screenshot%202022-03-09%20234035.png)
 
 ## Steps to run generate NgVeri Model
 1. Open eSim
